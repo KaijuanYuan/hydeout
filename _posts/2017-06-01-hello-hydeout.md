@@ -1,82 +1,70 @@
 ---
 layout: post
-title: Hello Hydeout
+title: Kaijuan Yuan
 excerpt_separator:  <!--more-->
 ---
 
-Hydeout updates the original [Hyde](https://github.com/poole/hyde)
-theme for [Jekyll](http://jekyllrb.com) 3.x and adds new functionality.
+Master student at the state key laboratory of CAD&CG, ZJU, advised by Prof. Yingcai Wu.
 
-### Keep It Simple
+### Research Intersets
 
-In keeping with the original Hyde theme, Hydeout aims to keep the overall
-design lightweight and plugin-free. JavaScript is currently limited only
-to Disqus and Google Analytics (and is only loaded if you provide configuration
-variables).
+- Information visualization<br>
+- Visual analytics<br>
+- Uncertainty modeling<br>
+- Mutli-source information fusion<br>
 
-Hydeout makes heavy use of Flexbox in its CSS. If Flexbox is not available,
-the CSS degrades into a single column layout.
 
-### Customization
+### Education
+- Zhejiang University, Aug.2017 - Present<br>
+ M.S. Computer Science and Technology<br>
 
-Hydeout replaces Hyde's class-based theming with the use
-of the following SASS variables:
+- Southwest University, Sep.2013 - Jul.2017<br>
+  B.S. Computer Science and Technology<br>
 
-```scss
-$sidebar-bg-color: #202020 !default;
-$sidebar-sticky: true !default;
-$layout-reverse: false !default;
-$link-color: #268bd2 !default;
-```
+### Experience
 
-To override these variables, create your own `assets/css/main.scss` file.
-Define your own variables, then import in Hydeout's SCSS, like so:
+- The State Key Laboratory of CAD&CG<br>
+  Zhejiang University, Hangzhou, China<br>
+  Dec.2016 - Aug.2017 · 9 mos<br>
+· Focus on information visualization and visual analytics.<br>
 
-```
----
-# Jekyll needs front matter for SCSS files
----
 
-$sidebar-bg-color: #ac4142;
-$link-color: #ac4142;
-$sidebar-sticky: false;
-@import "hydeout";
-```
+- The Laboratory of Information Fusion and Intelligent Science<br>
+  Southwest University, Chongqing, China<br>
+  May.2014 - Jul.2017 · 3 yrs 3 mos<br>
+· Focus on multi-source information fusion, Dempster-Shafer theory of evidence and it's applications.<br>
+· Proposed a new model of sensor reliability combining both dynamic reliability and static reliability.<br>
+· Developed a weighted averaging combination method to manage conflict in sensor data fusion.<br>
 
-See the [_variables](_sass/hydeout/_variables.scss) file for other variables
-you can override.
 
-You can also insert custom head tags (e.g. to load your own stylesheets) by
-defining your own `_includes/custom-head.html` or insert tags at the end
-of the body (e.g. for custom JS) by defining your own
-`_includes/custom-foot.html`.
+### Publications
 
-### New Features
+· Modeling sensor reliability in fault diagnosis based on evidence theory<br>
+2016 Sensors/MDPI
 
-* Hydeout also adds a new tags page (accessible in the sidebar) and a new
-  "category" layout for dedicated category pages.
+· Conflict management based on belief function entropy in sensor fusion<br>
+2016 SpringerPlus
 
-* Category pages are automatically added to the sidebar. All other pages
-  must have `sidebar_link: true` in their front matter to show up in
-  the sidebar.
+· Conflict evidence management in fault diagnosis<br>
+2017 International Journal of Machine Learning and Cybernetics/Springer Link
 
-* A simple redirect-to-Google search is available. If you want to use
-  Google Custom Search or Algolia or something with more involved,
-  override the `search.html`.
 
-* Disqus integration is ready out of the box. Just add the following to
-  your config file:
 
-  ```yaml
-  disqus:
-    shortname: my-disqus-shortname
-  ```
+### Awards & Honors
 
-  If you don't want Disqus or want to use something else, override
-  `comments.html`.
+- Outstanding Graduates Awards · 2017<br>
+- Outstanding Graduate Thesis Award · 2017<br>
+- Merit Student · 2014 · 2015 · 2016<br>
+- Spiritual Advanced Individual · 2017
 
-* For Google Analytics support, define a `google_analytics` variable with
-  your property ID in your config file.
 
-There's also a bunch of minor tweaks and adjustments throughout the
-theme. Hope this works for you!
+
+
+
+### Contact
+LinkedIn: http://www.linkedin.com/in/kaijuan-yuan-362326b9/<br>
+ResearchGate: https://www.researchgate.net/profile/Kaijuan_Yuan2<br>
+Google Scholar: https://scholar.google.com/citations?user=xX3_0LEAAAAJ&hl=zh-CN<br>
+E-mail: yuankaijuan@163.com
+
+
