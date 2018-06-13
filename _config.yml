@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
+title:            Kaijuan Yuan
 tagline:          'A Jekyll theme'
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io
+url:              https://kaijuanyuan.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -15,10 +15,10 @@ baseurl:          '/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
+  name:           'Kaijuan Yuan'
   url:            https://twitter.com/fongandrewc
 
-paginate:         5
+paginate:         1
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
