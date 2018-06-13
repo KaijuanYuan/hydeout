@@ -13,7 +13,7 @@ Master student at the state key laboratory of CAD&CG, ZJU, advised by Prof. Ying
 - Uncertainty modeling<br>
 - Mutli-source information fusion<br>
 
-
+<a name="educate"></a>
 ### Education
 - Zhejiang University, Aug.2017 - Present<br>
  M.S. Computer Science and Technology<br>
@@ -21,6 +21,9 @@ Master student at the state key laboratory of CAD&CG, ZJU, advised by Prof. Ying
 - Southwest University, Sep.2013 - Jul.2017<br>
   B.S. Computer Science and Technology<br>
 
+
+
+<a name="exper"></a>
 ### Experience
 
 - The State Key Laboratory of CAD&CG<br>
@@ -37,6 +40,8 @@ Master student at the state key laboratory of CAD&CG, ZJU, advised by Prof. Ying
 · Developed a weighted averaging combination method to manage conflict in sensor data fusion.<br>
 
 
+
+<a name="public"></a>
 ### Publications
 
 · Modeling sensor reliability in fault diagnosis based on evidence theory<br>
@@ -49,22 +54,11 @@ Master student at the state key laboratory of CAD&CG, ZJU, advised by Prof. Ying
 2017 International Journal of Machine Learning and Cybernetics/Springer Link
 
 
-
+<a name="awards"></a>
 ### Awards & Honors
 
 - Outstanding Graduates Awards · 2017<br>
 - Outstanding Graduate Thesis Award · 2017<br>
 - Merit Student · 2014 · 2015 · 2016<br>
 - Spiritual Advanced Individual · 2017
-
-
-
-
-
-### Contact
-LinkedIn: http://www.linkedin.com/in/kaijuan-yuan-362326b9/<br>
-ResearchGate: https://www.researchgate.net/profile/Kaijuan_Yuan2<br>
-Google Scholar: https://scholar.google.com/citations?user=xX3_0LEAAAAJ&hl=zh-CN<br>
-E-mail: yuankaijuan@163.com
-
 
