@@ -9,22 +9,24 @@ layout: default
 
   {% for post in paginator.posts %}
   <article class="post-body">
-    <!--
-    <h2 class="post-title">
-    -->
-    <h2 class="back-arrow icon">
+    <h2 class="post-title" style="color: #303030; font-family: Abril Fatface, serif; font-weight: normal; font-size: $large-font-size; margin-top: 0;">
       <!--
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
     -->
+
      {{ post.title }}
     </h2>
-    
     <!--
     {% include post-meta.html post=post %}
   -->
-    <hr/>
+    <hr/ style="margin-bottom: 15px;">
+
+    <p>
+      Master student at the State Key Lab of CAD&CG, Zhejiang University, advised by Prof. Yingcai Wu.
+    </p>
+
     {% if post.excerpt %}
       {{ post.excerpt }}
     {% else %}

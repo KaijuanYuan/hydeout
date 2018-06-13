@@ -4,7 +4,7 @@ title: Kaijuan Yuan
 excerpt_separator:  <!--more-->
 ---
 
-Master student at the state key laboratory of CAD&CG, ZJU, advised by Prof. Yingcai Wu.
+
 
 ### Research Intersets
 

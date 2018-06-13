@@ -1,7 +1,11 @@
 <nav id="sidebar-nav-links">
   {% if site.sidebar_home_link %}
+  <!--
     <a class="home-link {% if page.url == '/' %} active{% endif %}"
         href="{{ site.baseurl }}/">Home</a>
+      -->
+    <a class="home-link"
+      href="{{ site.baseurl }}/">Home</a>
   {% endif %}
 
   <!--
@@ -20,22 +24,16 @@
   
 
   <!-- 后期可添加跳转页面的内容链接，跳转页面的内容在xxx.md和xxx.html中编辑-->
-  <!--
+<!--
   {% include page-links.html %}
   {% include category-links.html %}
 -->
 
 
-  <a class="page-link {% if page.url == node.url %} active{% endif %}" href="#educate">Education</a>
-  <a class="page-link {% if page.url == node.url %} active{% endif %}" href="#exper">Experience</a>
-  <a class="category-link {% if page.url == node.url %} active{% endif %}" href="#public">Publications</a>
-  <a class="page-link {% if page.url == node.url %} active{% endif %}" href="#awards">Awards&Honors</a>
-
-
- 
-  <a class="page-link {% if href == '#educate' %} active{% endif %}" href="#educate">Education</a>
-  
-
+  <a href="#education">Education</a>
+  <a href="#exper">Experience</a>
+  <a href="#public">Publications</a>
+  <a href="#awards">Awards&Honors</a>
 
 
   {% include custom-nav-links.html %}

@@ -1,20 +1,28 @@
 <div id="sidebar">
   <header>
 
-    <img src="photo.jpg" width="250" height="250" align="center" />
+    <img src="photo.jpg" width="250" height="250" align="center" style="margin-bottom: 10px" />
 
+    <!--
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
-
+  
       <a href="{{ site.baseurl }}/">
         {% unless page.url == "/" %}
           <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
         {% endunless %}
         {{ site.title }}
       </a>
+     
+      {{ site.title }}
 
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
+     -->
+    <p style="font-size: 15px">
+    <img src="camera.png" width="20" height="20" align="bottom" style="float: left; display: inline; margin-right: 3px"/>
+    May. 2017 at Chongqing, China
+    </p>
 
-    <p class="lead">{{ site.description }}</p>
+    <p class="lead" style="font-size: 20px">{{ site.description }}</p>
   </header>
   {% include sidebar-nav-links.html %}
 
