@@ -1,1 +1,40 @@
 <!-- Optional additional links to insert in sidebar nav -->
+<nav id="sidebar-nav-links">
+  {% if site.sidebar_home_link %}
+  <!--
+    <a class="home-link {% if page.url == '/' %} active{% endif %}"
+        href="{{ site.baseurl }}/">Home</a>
+      -->
+    <a class="home-link"
+      href="{{ site.baseurl }}/">Home</a>
+  {% endif %}
+
+  <!--
+  {% if site.sidebar_blog_link %}
+    <a class="page-link {% if page.url == site.sidebar_blog_link %} active{% endif %}"
+	href="{{ site.baseurl }}{{ site.sidebar_blog_link }}">Blog</a>
+  {% endif %}
+  -->
+
+  <!--
+  {% comment %}
+    The code below dynamically generates a sidebar nav of pages with
+    `sidebar_link: true` in the front-matter. See readme for usage.
+  {% endcomment %}
+  -->
+  
+
+  <!-- 后期可添加跳转页面的内容链接，跳转页面的内容在xxx.md和xxx.html中编辑-->
+<!--
+  {% include page-links.html %}
+  {% include category-links.html %}
+-->
+
+  <a href="{{ site.baseurl }}/#education">Education</a>
+  <a href="{{ site.baseurl }}/#exper">Experience</a>
+  <a href="{{ site.baseurl }}/#public">Publications</a>
+  <a href="{{ site.baseurl }}/#awards">Awards&Honors</a>
+
+
+  {% include custom-nav-links.html %}
+</nav>

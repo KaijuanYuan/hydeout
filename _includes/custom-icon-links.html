@@ -1,1 +1,53 @@
 <!-- Optional additional links to insert for icons links -->
+<nav id="sidebar-icon-links">
+  <a id="github-link"
+     class="icon" title="LinkedIn" aria-label="LinkedIn"
+     href="https://www.linkedin.com/in/kaijuanyuan">
+    {% include svg/linkedin.svg %}
+  </a>
+
+  <a id="github-link"
+     class="icon" title="Google Scholar" aria-label="Google Scholar"
+     href="https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F4stjQ-5D8LCqSlLqt5C3pIJlnKX0rwauafr-gZ0TMDcUDtsVzc7QnyBpda8o5YKWoDt49C2nnOLz7vTuTUj_p-joF3VL3DRxnTLzyx6fgSpg5UL_o&user=xX3_0LEAAAAJ">
+    {% include svg/gscholar.svg %}
+  </a>
+
+  <a id="github-link"
+     class="icon" title="ResearchGate" aria-label="ResearchGate"
+     href="https://www.researchgate.net/profile/Kaijuan_Yuan2">
+    {% include svg/rgate.svg %}
+  </a>
+
+  {% comment %}
+    Check if we have tag or search pages page active before linking to it.
+  {% endcomment %}
+  {% assign tags_page = false %}
+  {% assign search_page = false %}
+  {% for node in site.pages %}
+    {% if node.layout == "tags" %}
+      {% assign tags_page = node %}
+    {% elsif node.layout == "search" %}
+      {% assign search_page = node %}
+    {% endif %}
+  {% endfor %}
+
+
+  <a id="github-link"
+     class="icon{% if page.url == '/tags' %} active{% endif %}"
+     title="E-mail" aria-label="E-mail"
+     href="mailto:yuankaijuan@163.com">
+    {% include svg/email.svg %}
+  </a>
+
+
+  {% if search_page %}
+    <a id="search-link"
+       class="icon{% if page.url == '/search' %} active{% endif %}"
+       title="Search" aria-label="Search"
+       href="{{ site.baseurl }}{{ search_page.url }}">
+      {% include svg/search.svg %}
+    </a>
+  {% endif %}
+
+  {% include custom-icon-links.html %}
+</nav>
