@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Kaijuan
-tagline:          'A Jekyll theme'
-description:      'Holding on for brighter days.'
+tagline:          'Yuan'
+description:      '· Keep calm and carry on.'
 url:              https://kaijuanyuan.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,8 +15,9 @@ baseurl:          '/hydeout'
                   # sidebar_blog_link below.
 
 author:
+
   name:           'Kaijuan Yuan'
-  url:            https://twitter.com/fongandrewc
+  url:            https://kaijuanyuan.github.io/
 
 paginate:         1
 # paginate_path:    '/page:num'
@@ -35,4 +36,4 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://kaijuanyuan.github.io
+  repo:             https://github.com/KaijuanYuan

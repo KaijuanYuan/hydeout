@@ -1,21 +1,20 @@
 <nav id="sidebar-icon-links">
-  {% if site.github.repo %}
-    <a id="github-link"
-       class="icon" title="Github Project" aria-label="Github Project"
-       href="{{ site.github.repo }}">
-      {% include svg/github.svg %}
-    </a>
-    <a id="github-download-link"
-       class="icon" title="Download" aria-label="Download"
-       href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">
-      {% include svg/download.svg %}
-    </a>
-  {% endif %}
+  <a id="github-link"
+     class="icon" title="LinkedIn" aria-label="LinkedIn"
+     href="https://www.linkedin.com/in/kaijuanyuan">
+    {% include svg/linkedin.svg %}
+  </a>
 
-  <a id="subscribe-link"
-     class="icon" title="Subscribe" aria-label="Subscribe"
-     href="{{ site.baseurl }}/{{ site.feed.path | default: 'feed.xml' }}">
-    {% include svg/feed.svg %}
+  <a id="github-link"
+     class="icon" title="Google Scholar" aria-label="Google Scholar"
+     href="https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F4stjQ-5D8LCqSlLqt5C3pIJlnKX0rwauafr-gZ0TMDcUDtsVzc7QnyBpda8o5YKWoDt49C2nnOLz7vTuTUj_p-joF3VL3DRxnTLzyx6fgSpg5UL_o&user=xX3_0LEAAAAJ">
+    {% include svg/gscholar.svg %}
+  </a>
+
+  <a id="github-link"
+     class="icon" title="ResearchGate" aria-label="ResearchGate"
+     href="https://www.researchgate.net/profile/Kaijuan_Yuan2">
+    {% include svg/rgate.svg %}
   </a>
 
   {% comment %}
@@ -31,14 +30,14 @@
     {% endif %}
   {% endfor %}
 
-  {% if tags_page %}
-    <a id="tags-link"
-       class="icon{% if page.url == '/tags' %} active{% endif %}"
-       title="Tags" aria-label="Tags"
-       href="{{ site.baseurl }}{{ tags_page.url }}">
-      {% include svg/tags.svg %}
-    </a>
-  {% endif %}
+
+  <a id="github-link"
+     class="icon{% if page.url == '/tags' %} active{% endif %}"
+     title="E-mail" aria-label="E-mail"
+     href="mailto:yuankaijuan@163.com">
+    {% include svg/email.svg %}
+  </a>
+
 
   {% if search_page %}
     <a id="search-link"
