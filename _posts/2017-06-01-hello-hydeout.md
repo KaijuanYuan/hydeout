@@ -5,7 +5,7 @@ excerpt_separator:  <!--more-->
 ---
 
 
-
+<img src="images/interests4.png" width="30" height="30" align="middle" style="float: left; margin-right: 4px; margin-top: .6em"/>
 ### Research Intersets
 
 - Information visualization<br>
@@ -14,6 +14,7 @@ excerpt_separator:  <!--more-->
 - Mutli-source information fusion<br>
 
 <a name="educate"></a>
+<img src="images/education3.png" width="30" height="30" align="middle" style="float: left; margin-right: 6px; margin-top: .5em"/>
 ### Education
 - Zhejiang University, Aug.2017 - Present<br>
  M.S. Computer Science and Technology<br>
@@ -24,6 +25,7 @@ excerpt_separator:  <!--more-->
 
 
 <a name="exper"></a>
+<img src="images/experience3.png" width="23" height="23" align="middle" style="float: left; margin-right: 8px; margin-top: .7em"/>
 ### Experience
 
 - The State Key Laboratory of CAD&CG<br>
@@ -42,6 +44,7 @@ excerpt_separator:  <!--more-->
 
 
 <a name="public"></a>
+<img src="images/publications3.png" width="24" height="24" align="middle" style="float: left; margin-right: 6px; margin-top: .6em"/>
 ### Publications
 
 · Modeling sensor reliability in fault diagnosis based on evidence theory<br>
@@ -55,6 +58,7 @@ excerpt_separator:  <!--more-->
 
 
 <a name="awards"></a>
+<img src="images/awards2.png" width="20" height="20" align="middle" style="float: left; margin-right: 6px; margin-top: .7em"/>
 ### Awards & Honors
 
 - Outstanding Graduates Awards · 2017<br>
