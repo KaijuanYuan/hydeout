@@ -1,7 +1,7 @@
 <div id="sidebar">
   <header>
 
-    <img src="images/photo4.png" width="300" height="300" align="center" style="margin-bottom: 10px" />
+    <img src="images/photo4.png" width="400" height="400" align="center" style="margin-bottom: 10px;" />
 
     <!--
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
@@ -17,12 +17,22 @@
 
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
      -->
-    <p style="font-size: 13px" align="left">
+    <p style="font-size: 13px; color: #aaa">
     <img src="images/camera.png" text-align="center" width="20" height="20" align="bottom" style="float: left ; display: inline; margin-left: 30px; margin-right: 5px;"/>
     May. 2017 at Chongqing, China
     </p>
 
-    <p class="lead" style="font-size: 20px">{{ site.description }}</p>
+    <h1 class="site-title">
+  
+      <a href="/">
+        Kaijuan
+      </a>
+    </h1>
+     
+
+    <!--
+    <p class="lead" text-align="center" style="font-size: 26px">{{ site.description }}</p>
+  -->
   </header>
   {% include sidebar-nav-links.html %}
 
