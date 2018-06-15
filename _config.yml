@@ -7,7 +7,7 @@ title:            Kaijuan
 tagline:          'Yuan'
 description:      '· Keep calm and carry on.'
 url:              https://kaijuanyuan.github.io
-baseurl:          '/hydeout'
+baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
