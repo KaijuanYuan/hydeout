@@ -8,7 +8,7 @@ excerpt_separator:  <!--more-->
 <img src="images/interests4.png" width="30" height="30" align="middle" style="float: left; margin-right: 4px; margin-top: .6em"/>
 
 ### Research Interests
-<hr style="width: 30%; margin-bottom: 15px; margin: 0.5rem 0; border: 0; border-top: .5px solid #987cb9;"/>
+<hr style="width: 205px; margin-bottom: 15px; margin: 0.5rem 0; border: 0; border-top: .5px solid #987cb9;"/>
 
 - Information visualization<br>
 - Visual analytics<br>
@@ -19,7 +19,7 @@ excerpt_separator:  <!--more-->
 <img src="images/education3.png" width="30" height="30" align="middle" style="float: left; margin-right: 6px; margin-top: .5em"/>
 
 ### Education
-<hr style="width: 16.7%; margin-bottom: 15px; margin: 0.5rem 0; border: 0; border-top: .5px solid #987cb9;"/>
+<hr style="width: 115px; margin-bottom: 15px; margin: 0.5rem 0; border: 0; border-top: .5px solid #987cb9;"/>
 
 - <abbr>M.S.</abbr> Computer Science and Technology<br>
   Zhejiang University, <cite>Aug. 2017 - Present</cite><br>
@@ -35,7 +35,7 @@ excerpt_separator:  <!--more-->
 <img src="images/experience3.png" width="23" height="23" align="middle" style="float: left; margin-right: 8px; margin-top: .7em"/>
 
 ### Experience
-<hr style="width: 18%; margin-bottom: 15px; margin: 0.5rem 0; border: 0; border-top: .5px solid #987cb9;"/>
+<hr style="width: 125px; margin-bottom: 15px; margin: 0.5rem 0; border: 0; border-top: .5px solid #987cb9;"/>
 - <strong>Research Assistant</strong><br>
   <cite>Dec. 2016 - Aug. 2017</cite><br>
   The State Key Lab of CAD&CG, Zhejiang University, Hangzhou, China<br>
@@ -53,7 +53,7 @@ excerpt_separator:  <!--more-->
 <img src="images/publications3.png" width="24" height="24" align="middle" style="float: left; margin-right: 6px; margin-top: .6em"/>
 
 ### Publications
-<hr style="width: 20.5%; margin-bottom: 15px; margin: 0.5rem 0; border: 0; border-top: .5px solid #987cb9;"/>
+<hr style="width: 140px; margin-bottom: 15px; margin: 0.5rem 0; border: 0; border-top: .5px solid #987cb9;"/>
 - Yuan, K., Xiao, F., Fei, L., Kang, B., & Deng, Y. (2016). Modeling sensor reliability in fault diagnosis based on evidence theory. Sensors, 16(1), 113.
 
 - Yuan, K., Xiao, F., Fei, L., Kang, B., & Deng, Y. (2016). Conflict management based on belief function entropy in sensor fusion. SpringerPlus, 5(1), 638.
@@ -65,7 +65,7 @@ excerpt_separator:  <!--more-->
 <img src="images/awards2.png" width="20" height="20" align="middle" style="float: left; margin-right: 6px; margin-top: .7em"/>
 
 ### Awards & Honors
-<hr style="width: 29%; margin-bottom: 15px; margin: 0.5rem 0; border: 0; border-top: .5px solid #987cb9;"/>
+<hr style="width: 200px; margin-bottom: 15px; margin: 0.5rem 0; border: 0; border-top: .5px solid #987cb9;"/>
 - Outstanding Graduates Awards · 2017<br>
 - Outstanding Graduate Thesis Award · 2017<br>
 - Merit Student · 2014 · 2015 · 2016<br>
