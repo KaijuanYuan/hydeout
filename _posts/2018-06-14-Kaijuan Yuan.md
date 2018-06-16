@@ -7,7 +7,7 @@ excerpt_separator:  <!--more-->
 
 <img src="images/interests4.png" width="30" height="30" align="middle" style="float: left; margin-right: 4px; margin-top: .6em"/>
 
-### Research Intersets
+### Research Interests
 <hr style="width: 30%; margin-bottom: 15px; margin: 0.5rem 0; border: 0; border-top: .5px solid #987cb9;"/>
 
 - Information visualization<br>
@@ -38,13 +38,13 @@ excerpt_separator:  <!--more-->
 <hr style="width: 18%; margin-bottom: 15px; margin: 0.5rem 0; border: 0; border-top: .5px solid #987cb9;"/>
 - <strong>Research Assistant</strong><br>
   <cite>Dec. 2016 - Aug. 2017</cite><br>
-  The State Key Laboratory of CAD&CG, Zhejiang University, Hangzhou, China<br>
+  The State Key Lab of CAD&CG, Zhejiang University, Hangzhou, China<br>
   Supervisor: Prof. Yingcai Wu
 
 
 - <strong>Undergraduate Research Assistant</strong><br>
   <cite>May. 2014 - Jul. 2017</cite><br>
-  The Laboratory of Information Fusion and Intelligent Science, Southwest University, Chongqing, China<br>
+  The Lab of Information Fusion and Intelligent Science, Southwest University, Chongqing, China<br>
   Supervisor: Prof. Yong Deng
 
 
