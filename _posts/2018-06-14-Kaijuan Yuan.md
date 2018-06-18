@@ -13,7 +13,8 @@ excerpt_separator:  <!--more-->
 - Information visualization<br>
 - Visual analytics<br>
 - Uncertainty modeling<br>
-- Mutli-source information fusion<br>
+- Evidence theory<br>
+<!-- - Mutli-source information fusion<br>-->
 
 <a name="educate"></a>
 <img src="images/education3.png" width="30" height="30" align="middle" style="float: left; margin-right: 6px; margin-top: .5em"/>
