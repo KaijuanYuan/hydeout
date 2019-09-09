@@ -22,11 +22,11 @@ excerpt_separator:  <!--more-->
 ### Education
 <hr style="width: 115px; margin-bottom: 15px; margin: 0.5rem 0; border: 0; border-top: .5px solid #987cb9;"/>
 
-- <abbr>M.S.</abbr> Computer Science and Technology<br>
+- <abbr>MA.Sc.</abbr> Computer Science and Technology<br>
   Zhejiang University, <cite>Aug. 2017 - Present</cite><br>
  
 
-- <abbr>B.S.</abbr> Computer Science and Technology<br>
+- <abbr>B.Eng.</abbr> Computer Science and Technology<br>
   Southwest University, <cite>Sep. 2013 - Jul. 2017</cite><br>
   
 
