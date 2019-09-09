@@ -26,7 +26,7 @@ excerpt_separator:  <!--more-->
   Zhejiang University, <cite>Aug. 2017 - Present</cite><br>
  
 
-- <abbr>B.E.</abbr> Computer Science and Technology<br>
+- <abbr>B.Eng.</abbr> Computer Science and Technology<br>
   Southwest University, <cite>Sep. 2013 - Jul. 2017</cite><br>
   
 
